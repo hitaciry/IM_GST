@@ -26,14 +26,14 @@
 
 1. Analyze the current state of aiesec.org as a platforms. What would you start, stop, continue and improve?
 
-  start: 
+   start: 
 
-  1. Releas notes:
-    + It help our user to understend what happense
+   1. Releas notes:
+      + It help our user to understend what happense
    
-  2. Articles about improvment BEFORE the Releas
-  2. Move resposabily to action in backend to admin from developers
-  2. 
+   2. Articles about improvment BEFORE the Releas
+   2. Move resposabily to action in backend to admin from developers
+   2. 
 
 2. How would you manage and motivate your team to build a support function for aiesec.org using intercom’s features to ensure 24hrs (or less) response? Explain in detail. 
 
