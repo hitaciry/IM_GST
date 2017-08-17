@@ -28,8 +28,9 @@
 
    start: 
 
-   1. Releas notes: 
+   1. Releas notes:
      + It help our user to understend what happense
+      
    2. Articles about improvment BEFORE the Relise
    2. Move resposabily to action in backend to admin from developers
    2. 
